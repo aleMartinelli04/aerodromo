@@ -1,6 +1,6 @@
 # Aerodromo
 
-in un aereo duomo ci sono diversi aeroplani 2 categorie
+in un aereodromo ci sono diversi aeroplani 2 categorie
 
 * ###### alianti - sigla ed efficienza
 * ###### aeromobili- sigla e potenza in cv
